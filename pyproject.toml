@@ -5,6 +5,7 @@ dependencies = [
     "django",
     "django-cors-headers",
     "whitenoise",
+    "psycopg2-binary",
 ]
 
 [project.optional-dependencies]
